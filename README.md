@@ -2,6 +2,7 @@
 author: rajbir bhattacharjee
 title: experiments
 description: experiments with github pages
+layout: page
 ---
 
 ## Welcome to GitHub Pages
@@ -17,7 +18,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
 ## Header 2
 ### Header 3
 
